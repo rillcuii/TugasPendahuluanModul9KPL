@@ -1,0 +1,6 @@
+@CODE_TP_MODUL9_HostAddress = http://localhost:5183
+
+GET {{CODE_TP_MODUL9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
